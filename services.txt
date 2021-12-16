@@ -1,0 +1,24 @@
+Services:
+
+    Outsource IT support and staffing
+        Management of Specialized Software
+        Training Staff to use Tech Solutions
+        Inservice Training (CEU)
+
+    Infrastructure Network, Cloud, and Security Services
+        Monitor & Analyze Online Traffic
+        Manage Backup
+        Human Network Integration
+
+    Proprietary Software Development
+
+    Webpage Development/Rebranding
+        Build Functional Websites
+
+    CRM Integration and Customization
+        Manage User Access Rights
+
+    Digital Marketing
+
+    24/7 Help Desk
+    Microsoft 365 Drive
