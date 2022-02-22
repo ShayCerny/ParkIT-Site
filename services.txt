@@ -22,3 +22,37 @@ Services:
 
     24/7 Help Desk
     Microsoft 365 Drive
+
+
+Other 
+
+Version control (Git)
+Continuous Integration (CI)
+•Continuous Delivering (CD)
+•Azure services
+•Amazon Web Services (AWS)
+•Hosting services
+•PM tools (Jira, Trello, Azure DevOps)
+
+
+back - end
+
+•Python (Flask, Django)
+•C# (.NET framework,
+Core)
+•Node Js
+•PHP
+•SQL databases (MS SQL,
+MySQL, PostgreSQL)
+•No SQL databases(MFib)
+
+
+Front-end
+
+•Javascript
+•Jquery
+•React
+•Angular 2+
+•Ionic 3+
+•CSS / Sass
+•Vue 2+

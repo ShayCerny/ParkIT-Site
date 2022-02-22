@@ -10,11 +10,17 @@
   }
 } */
 
-.lg-leadership-img{
-  height: 430px;
-}
-
 .custom-text{
   color: black;
   font-size: large;
+}
+
+.tab-content-inner{
+  margin-top: 5.5rem;
+}
+
+.center{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
 }
