@@ -24,3 +24,8 @@
   justify-content: center !important;
   align-items: center !important;
 }
+
+.service-image{
+  width: 600px !important;
+  height: 300px !important;
+}
